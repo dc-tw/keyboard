@@ -172,7 +172,7 @@ static void Delay(__IO uint32_t nTime)
 /**
   * @brief  Decrements the TimingDelay variable.
   * @param  None
-  * @retval None
+  * @retval None  
   */
 void TimingDelay_Decrement(void)
 {
